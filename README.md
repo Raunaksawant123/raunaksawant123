@@ -114,10 +114,10 @@ I'm interested in:
 
 `AI/ML` • `Data Science` • `NLP` • `LLMs` • `Open Source` • `Research` • `Collaboration`
 
-**LinkedIn:** [your profilr].(www.linkedin.com/in/
+**LinkedIn:** [your profile].(www.linkedin.com/in/
 raunak-sawant123)
 
-**Email:** [Your Email](sawantraunak2@gmail.com)
+**Email:** [Your Email].(sawantraunak2@gmail.com)
 
 
 ---
