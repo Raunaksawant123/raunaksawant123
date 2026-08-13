@@ -1,5 +1,127 @@
-# 💫 About Me:
-# 👋 Hi, I'm Raunak Sawant<br><br>### 💻 Computer Engineering Student | Data Science | AI/ML | NLP<br><br>I'm a Computer Engineering student passionate about **Data Science, Artificial Intelligence, Machine Learning, and Natural Language Processing**.<br><br>I enjoy working on real-world problems using data and AI, and I'm currently exploring **speech technology, multilingual AI, NLP, LLMs, and machine learning**.<br><br>* 🎓 Computer Engineering Student<br>* 📊 Interested in **Data Science & Machine Learning**<br>* 🤖 Exploring **AI, NLP & LLMs**<br>* 🗣️ Currently working on **Konkani Speech-to-Text / ASR**<br>* 📈 Interested in **Data Analytics & Visualization**<br>* ☁️ Experienced with **Google Colab, Jupyter Notebook & Git/GitHub**<br>* 🌱 Always learning and building new projects<br><br>---<br><br>## 🛠️ Skills & Technologies<br><br>### 👨‍💻 Programming<br><br>* Python<br>* C<br>* C++<br>* Java<br>* JavaScript<br>* PHP<br><br>### 📊 Data Science & Analytics<br><br>* Python for Data Science<br>* NumPy<br>* Pandas<br>* Matplotlib<br>* Seaborn<br>* Exploratory Data Analysis (EDA)<br>* Data Visualization<br>* Basic Machine Learning<br>* SQL<br>* DBMS<br><br>### 🤖 AI / ML / NLP<br><br>* Machine Learning<br>* Natural Language Processing (NLP)<br>* Automatic Speech Recognition (ASR)<br>* Speech-to-Text<br>* LLM Concepts<br>* Multilingual AI<br>* AI Model Evaluation<br>* WER & CER evaluation<br><br>### 🌐 Web Development<br><br>* HTML<br>* CSS<br>* JavaScript<br>* PHP<br>* MySQL<br><br>### 📊 Visualization & Tools<br><br>* Tableau<br>* Power BI<br>* Jupyter Notebook<br>* Google Colab<br>* VS Code<br>* PyCharm<br>* Git<br>* GitHub<br>* Hugging Face<br><br>---<br><br># 🚀 Projects<br><br>## 🗣️ Konkani Speech-to-Text / Automatic Speech Recognition<br><br>**Ongoing AI/NLP Project**<br><br>A speech recognition project focused on developing and evaluating **Automatic Speech Recognition (ASR) systems for Konkani**, an under-resourced Indian language.<br><br>### Work involved:<br><br>* Studying existing Konkani speech and text datasets<br>* Exploring the **AI4Bharat IndicVoices** dataset<br>* Working with Konkani language corpora<br>* Testing different speech recognition models<br>* Comparing multilingual and Indic speech models<br>* Evaluating model performance using **WER and CER**<br>* Training and testing models using Google Colab<br>* Exploring models such as:<br><br>  * Whisper<br>  * wav2vec2<br>  * MMS<br>  * IndicWav2Vec<br>  * IndicConformer<br>  * Parakeet<br><br>### Technologies:<br><br>`Python` `NLP` `ASR` `Hugging Face` `PyTorch` `Google Colab` `Speech Processing`<br><br>---<br><br>## 🩸 Blood Donation Management System<br><br>A database management project designed to manage blood donors, recipients, blood groups, availability, and donation records.<br><br>### Features:<br><br>* Donor management<br>* Recipient management<br>* Blood group management<br>* Blood inventory tracking<br>* Donation records<br>* Database relationships<br>* SQL queries and database normalization<br><br>### Technologies:<br><br>`MySQL` `SQL` `DBMS` `Database Design`<br><br>---<br><br>## 🌴 Goa Tourism — Data Analysis & Storytelling<br><br>A data analytics project focused on analyzing **Goa tourism data** and presenting insights through interactive visualizations.<br><br>### Work involved:<br><br>* Data cleaning and preparation<br>* Exploratory data analysis<br>* Identifying tourism trends<br>* Data visualization<br>* Creating an analytical dashboard<br>* Presenting insights through data storytelling<br><br>### Technologies:<br><br>`Data Analysis` `Tableau` `Data Visualization` `EDA`<br><br>---<br><br>## 📊 Data Science & Machine Learning Projects<br><br>I've also explored several beginner-to-intermediate Data Science and Machine Learning projects involving:<br><br>* Student Performance Prediction<br>* House Price Prediction<br>* Movie Recommendation Systems<br>* Fake News Detection<br>* Data Analysis & Visualization<br>* Predictive modelling<br><br>### Technologies:<br><br>`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Jupyter`<br><br>---<br><br># 💼 Internship Experience<br><br>### 🔬 NLP / AI Internship<br><br>Worked on an **NLP and Speech-to-Text project for Konkani**, involving:<br><br>* Dataset research and collection<br>* Konkani speech dataset analysis<br>* ASR model benchmarking<br>* Model comparison<br>* Speech-to-text evaluation<br>* WER/CER analysis<br>* Model training using Google Colab<br>* Hugging Face datasets and models<br><br>This experience helped me understand the challenges of building AI systems for **low-resource Indian languages**.<br><br>---<br><br># 📚 Currently Learning<br><br>* 🤖 Advanced Machine Learning<br>* 🧠 Deep Learning<br>* 💬 Natural Language Processing<br>* 🗣️ Speech Recognition<br>* 🧩 Large Language Models<br>* 🔗 AI Applications<br>* 📊 Advanced Data Science<br>* 🚀 Building real-world AI projects<br><br>---<br><br># 🎯 Career Interests<br><br>I'm interested in building a career around:<br><br>**Data Science → Machine Learning → Artificial Intelligence → NLP / LLMs**<br><br>My goal is to work on practical AI systems that solve real-world problems, particularly in areas involving **language, data, and intelligent systems**.<br><br>---<br><br># 📈 My Approach<br><br>> **Learn → Build → Test → Analyze → Improve**<br><br>I believe the best way to learn technology is by building projects, experimenting with different approaches, understanding failures, and continuously improving.<br><br>---<br><br># 🤝 Let's Connect<br><br>I'm always interested in:<br><br>* AI/ML projects<br>* Data Science<br>* NLP & LLMs<br>* Open-source projects<br>* Research opportunities<br>* Collaboration on interesting projects<br><br>### 📫 Connect with me<br><br>* 💼 LinkedIn: **[Your LinkedIn](YOUR_LINKEDIN_URL)**<br>* 📧 Email: **[Your Email](YOUR_EMAIL)**<br>* 🌐 Portfolio: **[Your Portfolio](YOUR_PORTFOLIO_URL)**<br><br>---<br><br>## ⭐ Featured Projects<br><br>🗣️ **Konkani Speech-to-Text** — AI / NLP / ASR<br>🩸 **Blood Donation Management System** — SQL / DBMS<br>🌴 **Goa Tourism Data Analysis** — Data Science / Tableau<br><br>---<br><br>### 💡 "Building projects, learning continuously, and turning data into intelligent solutions."<br>
+# 👋 Hi, I'm Raunak Sawant
+
+**Computer Engineering Student | Data Science | AI/ML | NLP**
+
+I'm a Computer Engineering student interested in **Data Science, Artificial Intelligence, Machine Learning, and Natural Language Processing**.
+
+I enjoy building practical projects using data and AI. Currently, I'm exploring **Speech Technology, Multilingual AI, NLP, LLMs, and Machine Learning**, with a focus on real-world applications.
+
+---
+
+### 💫 About Me
+
+* 🎓 Computer Engineering Student
+* 📊 Interested in **Data Science & Machine Learning**
+* 🤖 Exploring **AI, NLP & LLMs**
+* 🗣️ Working on **Konkani Speech-to-Text / ASR**
+* 📈 Interested in **Data Analytics & Visualization**
+* 🔬 Interested in **AI research and real-world applications**
+* 🌱 Continuously learning and building projects
+
+---
+
+### 🛠️ Skills & Technologies
+
+**Languages:**
+`Python` `C` `C++` `Java` `JavaScript` `PHP`
+
+**Data Science & Analytics:**
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `EDA` `SQL` `DBMS`
+
+**AI / ML / NLP:**
+`Machine Learning` `NLP` `ASR` `Speech-to-Text` `LLMs` `Multilingual AI` `WER` `CER`
+
+**Web Development:**
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+**Tools & Platforms:**
+`Git` `GitHub` `Hugging Face` `Google Colab` `Jupyter` `VS Code` `PyCharm` `Tableau` `Power BI`
+
+---
+
+### 🚀 Featured Projects
+
+**🗣️ Konkani Speech-to-Text / ASR**
+An AI/NLP project focused on developing and evaluating Automatic Speech Recognition systems for **Konkani**, an under-resourced Indian language.
+
+**Work:** Dataset research • ASR benchmarking • Model comparison • WER/CER evaluation • Model training
+
+**Models explored:** Whisper • wav2vec2 • MMS • IndicWav2Vec • IndicConformer • Parakeet
+
+`Python` `NLP` `ASR` `Hugging Face` `PyTorch`
+
+---
+
+**🩸 Blood Donation Management System**
+A database management system for managing donors, recipients, blood groups, blood availability, and donation records.
+
+`MySQL` `SQL` `DBMS` `Database Design`
+
+---
+
+**🌴 Goa Tourism — Data Analysis & Storytelling**
+A data analytics project focused on exploring Goa tourism data and presenting insights through interactive dashboards and data storytelling.
+
+`Python` `Data Analysis` `Tableau` `Data Visualization`
+
+---
+
+### 💼 Internship
+
+**NLP / AI Internship — Konkani Speech-to-Text**
+
+Worked on an NLP and Speech-to-Text project involving:
+
+* Konkani dataset research and analysis
+* Speech dataset preparation
+* ASR model benchmarking
+* Model comparison
+* WER/CER evaluation
+* Model training using Google Colab
+* Hugging Face datasets and models
+
+This experience helped me understand the challenges of developing AI systems for **low-resource Indian languages**.
+
+---
+
+### 📚 Currently Learning
+
+`Deep Learning` • `Advanced Machine Learning` • `NLP` • `Speech Recognition` • `LLMs` • `AI Applications` • `Advanced Data Science`
+
+---
+
+### 🎯 Career Interests
+
+I'm interested in building a career around:
+
+**Data Science → Machine Learning → Artificial Intelligence → NLP / LLMs**
+
+My goal is to build practical AI systems that solve real-world problems, especially in **language, data, and intelligent systems**.
+
+---
+
+### 📈 My Approach
+
+> **Learn → Build → Test → Analyze → Improve**
+
+I believe the best way to learn is by building real projects, experimenting with different approaches, understanding failures, and continuously improving.
+
+---
+
+### 🤝 Let's Connect
+
+I'm interested in:
+
+`AI/ML` • `Data Science` • `NLP` • `LLMs` • `Open Source` • `Research` • `Collaboration`
+
+**LinkedIn:** [Your LinkedIn](YOUR_LINKEDIN_URL)
+**Email:** [Your Email](YOUR_EMAIL)
+**Portfolio:** [Your Portfolio](YOUR_PORTFOLIO_URL)
+
+---
+
+<sub>💡 Building projects, learning continuously, and turning data into intelligent solutions.</sub>
+
 
 
 ## 🌐 Socials:
